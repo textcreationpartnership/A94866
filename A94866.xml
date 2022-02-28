@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Neptunes address to His most Sacred Majesty Charls the second: King of England, Scotland, France and Ireland, &amp;c. Congratulating his happy coronation celebrated the 22th. day of Aprill, 1661. In several designements and shews npon [sic] the water, before White-hall, at His Majesties return from the land-triumphs.</title>
+            <author>Tatham, John, fl. 1632-1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94866</idno>
+            <idno type="STC">Wing T230</idno>
+            <idno type="STC">Thomason E1080_18</idno>
+            <idno type="STC">ESTC R207881</idno>
+            <idno type="EEBO-CITATION">99866904</idno>
+            <idno type="PROQUEST">99866904</idno>
+            <idno type="VID">169347</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169347)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1080[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Neptunes address to His most Sacred Majesty Charls the second: King of England, Scotland, France and Ireland, &amp;c. Congratulating his happy coronation celebrated the 22th. day of Aprill, 1661. In several designements and shews npon [sic] the water, before White-hall, at His Majesties return from the land-triumphs.</title>
+                  <author>Tatham, John, fl. 1632-1664.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Godbid for Edward Powel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Tatham.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169347:1" rendition="simple:additions"/>
+            <p>NEPTUNES ADDRESS TO His Moſt Sacred MAJESTY CHARLS THE SECOND: KING of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> &amp;c.</p>
+            <p>CONGRATULATING His happy Coronation CELEBRATED The 22<hi rend="sup">th.</hi> Day of <hi>Aprill,</hi> 1661.</p>
+            <p>In ſeveral <hi>Deſignements</hi> and <hi>Shews</hi> upon the <hi>Water,</hi> Before <hi>White-hall,</hi> At His MAJESTIES Return from the <hi>LAND-TRI<g ref="char:V">Ʋ</g>MPHS.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Godbid</hi> for <hi>Edward Powel.</hi> 1661.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169347:2"/>
+            <pb facs="tcp:169347:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Heartily wiſh Thee a Spectator of this Tri<g ref="char:EOLhyphen"/>umph, it being ſet out with ſuch Art and Va<g ref="char:EOLhyphen"/>riety of Delight (not to ſpeak in the Canting way of Puppet Shews) it will afford Thee Talk to pleaſe thy Children, beſides thy own Satisfaction; To the Demon<g ref="char:EOLhyphen"/>ſtration of which I refer Thee.</p>
+         </div>
+      </front>
+      <body>
+         <div type="description_of_triumph">
+            <pb facs="tcp:169347:3"/>
+            <pb n="5" facs="tcp:169347:3"/>
+            <head>Neptune's Addreſs To His Moſt Sacred MAJESTY Charles the Second.</head>
+            <p>HIs Majeſty after the Land Solemnity, (and return<g ref="char:EOLhyphen"/>ing to <hi>Whitehall,</hi> with the Duke of <hi>York,</hi> and others His Nobility) is pleaſed to take a Balcony towards the Water, in expectation of this Triumph.</p>
+            <p>
+               <hi>The Ordering of which is thus:</hi>
+            </p>
+            <list>
+               <item>A Gallant-Large Fabrick, made in likeneſſe of the <hi>Tower</hi> of <hi>London,</hi> moves through <hi>London-Bridge,</hi> and ſo placeth it ſelf on the River.</item>
+               <item>Her Attendants are the Hamblets and Officers belonging to the <hi>Tower,</hi> or perſons repreſenting them.</item>
+               <item>The Second Preſentment is a Circle, in which is figured Three Whales, in chace of Three Ships, on whoſe Backs fit Three Red Coats, or Prey-men, with Dudgeon Daggers in their hands (like thoſe of Pigmies) Hats on their heads buttoned up, and Monchatoes like <hi>Switzers,</hi> ſmoaking Tobacco, their Mouths wide, ready to ſwallow the Ocean; from the Center of this Circle is raiſed a Rock, out of which ſprings the <hi>Royal Oake,</hi> adorned with Crowns and Scepters.</item>
+               <item>The third Preſentment is three Garlands, ſignifying the Three Crowns of <hi>England, Scotland,</hi> and <hi>Ireland;</hi> theſe Garlands move Circumferentially alſo on the Water.</item>
+               <item>On this Triumph, are ſeveral Wayters relating to Gar<g ref="char:EOLhyphen"/>dens, who are placed in Lighters at a convenient diſtance.</item>
+               <item>The fourth Triumph is the Figure of a Caſtle, out of which <hi>Neptune</hi> Mounted on a VVhale ſeems to come. In the Body of the VVhale are placed Hoe-boys, or loud Muſick, who ſound all the time on the VVater, until <hi>Neptune</hi> addreſſeth himſelf to His Majeſty againſt <hi>Whitehal,</hi> in Words as followeth.</item>
+            </list>
+         </div>
+         <div type="speech">
+            <pb n="6" facs="tcp:169347:4"/>
+            <head>Neptunes SPEECH On the Water TO THE KING At His Return from the LAND-TRIUMPHS</head>
+            <stage>
+               <hi>NEPT<g ref="char:V">Ʋ</g>NE</hi> Coming as from a CASTLE or TOWER.</stage>
+            <sp>
+               <lg>
+                  <l>GREAT SIR!</l>
+                  <l>INvited from our Princely Bower by <hi>Fame,</hi>
+                  </l>
+                  <l>(Who ever waited on Your Royal Name)</l>
+                  <l>And to complete the Wonder of this day,</l>
+                  <l>(To which the Worlds Eye doth a Tribute pay)</l>
+                  <pb n="7" facs="tcp:169347:4"/>
+                  <l> 
+                     <hi>Neptune</hi> (ſole <hi>Soveraign</hi> of the Seat) is come</l>
+                  <l>To give Your <hi>Majeſty</hi> a Welcome home;</l>
+                  <l>After the Lands <hi>Careſſes</hi> we would do,</l>
+                  <l>Something (though weak) that might be talkt of too.</l>
+                  <l>At ſuch a Greet the Elements Conſpire,</l>
+                  <l>And Body into <hi>Joy, Earth, Ayre,</hi> and <hi>Fire:</hi>
+                  </l>
+                  <l>Your <hi>Actions</hi> have created <hi>Wonders</hi> (Sir)</l>
+                  <l>Converted <hi>Time,</hi> Aſtoniſh'd <hi>Bumazer;</hi>
+                  </l>
+                  <l>Convinc'd the <hi>Atheiſt</hi> in a powerful ſenſe,</l>
+                  <l>Who ne're till now did own a <hi>Providence:</hi>
+                  </l>
+                  <l>This is the Hand of <hi>Miracle,</hi> which we</l>
+                  <l>Have often wiſh'd, and now rejoyce to ſee.</l>
+                  <l>Be pleas'd (then) to accept what here we bring,</l>
+                  <l>Although a rude, yet Peaceful <hi>Offering.</hi>
+                  </l>
+                  <l>The <hi>Tower</hi> is the Emblem of Your Peoples Love,</l>
+                  <l>From whoſe united Strength Your Actions move:</l>
+                  <l>The <hi>Wales</hi> (the Seas Levyathans) are thoſe</l>
+                  <l>That were to <hi>God,</hi> Your Self and Countrey Foes;</l>
+                  <l>Who to maintain their Monſtrous Bulk, perſue</l>
+                  <l>Not the Barque only, but the Traffick too;</l>
+                  <l>By which <hi>Trade</hi> periſh'd, all <hi>Commerce</hi> was barr'd,</l>
+                  <l>And <hi>War</hi> too rude burden'd Our Realm too hard.</l>
+                  <l>Yet from that ill-contriv'd Circumference</l>
+                  <l>We find a Center, and derive from thence</l>
+                  <pb n="8" facs="tcp:169347:5"/>
+                  <l> A Rock, out of whoſe Barren Womb doth ſpring</l>
+                  <l>The <hi>Royal Oake,</hi> a Shelter for a KING:</l>
+                  <l>The <hi>Lawrel</hi> ſhall no more its Vertue boaſt,</l>
+                  <l>Since that the <hi>Oake</hi> deſerves the Glory moſt,</l>
+                  <l>And Conſecrated ought to be to <hi>Jove,</hi>
+                  </l>
+                  <l>Producing both th' Effects of Peace and Love.</l>
+                  <l>The <hi>Fairies</hi> in a Ring ſhall 'bout it dance,</l>
+                  <l>Inſcribing <hi>Hony ſoit qui mal y penſe:</hi>
+                  </l>
+                  <l>The Poets with <hi>Phaebean Lyricks</hi> Sing</l>
+                  <l>The Actions and the Fame of <hi>Brittains KING.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <p>VVhich ended, the ſeveral Figures on the VVater, as that of the <hi>Tower, Whales,</hi> and the reſt, become a ſudden Flame; as though the Elements of VVater and Ayre had been invited to the Celebration of His Majeſties <hi>Coronation.</hi> Many other excellent Fire-works are preſented both on the Water and in the Ayre, being the Deſignments of Mr. <hi>Zacheus Juat,</hi> Gunner of one of His Majeſties Ships.</p>
+            <p>Thus I have given you a true Relation of the Night Triumphs preſented to, and much approved by His Moſt Gracious Majeſty, he having already ſeen the Model thereof.</p>
+            <closer>
+               <signed>Thine, <hi>John Tatham.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
